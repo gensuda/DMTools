@@ -1,8 +1,8 @@
 # DMTools
-tools for dungeon master savegame, transfer savegame characters from DM PC to DM Amiga
+Tools for dungeon master savegame, transfer savegame characters from DM PC to DM Amiga.
+This is a Java program.
 
-DM savegame transfer from PC savegame to Amiga savegame
-copyright 2025 Ján Mojžiš, janmojzisx@gmail.com, github https://github.com/gensuda/DMTools
+Copyright 2025 Ján Mojžiš, janmojzisx@gmail.com, github https://github.com/gensuda/DMTools
 Execute main program ConvertToDMAmiga with 3 arguments
   1. INPUT DM PC savegame,
   2. INPUT DM Amiga savegame,
